@@ -1,5 +1,5 @@
 [**Functionality-Wise-Testcases**](/Web-Security/Functionality-Wise-Testcases.md)&nbsp; [**Tips-Tricks-Mindmap**](/Web-Security/Tips-Tricks-Mindmap.md)&nbsp; [**Payloads**](/Web-Security/Payloads.md)
-# Web-Security
+## Web-Security
 This repository contains the vulnerabilities related to web security.
 
 | S.NO. | Topic |
