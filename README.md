@@ -28,7 +28,7 @@ This repository contains the vulnerabilities related to web security.
 | 23 |[JSON Attacks (Padding, deserialization,Injection, Interoperability](./Web-Issues/Issue-23.md)|
 | 24 |[JWT Issues](./Web-Issues/Issue-24.md)|
 | 25 |[CSRF and Bypass, Chaining](./Web-Issues/Issue-25.md)|
-| 26 |[JWT Issues](./Web-Issues/Issue-26.md)|
+| 26 |[JWT Issues (Brute force)](./Web-Issues/Issue-26.md)|
 | 27 |[Desk Hacking](./Web-Issues/Issue-27.md)|
 | 28 |[Type Confusion](./Web-Issues/Issue-28.md)|
 | 29 |[Log File Injection](./Web-Issues/Issue-29.md)|
