@@ -6,12 +6,12 @@ This repository contains the vulnerabilities related to web security.
 | 1 | [Unathenticated RCE](./Web-Issues/Issue-1.md)|
 | 2 | [Account Takeover via XSS CSRF](./Web-Issues/Issue-2.md)|
 | 3 | [Authentication Bypass](./Web-Issues/Issue-3.md)|
-| 4 | [Oauth Issues](./Web-Issues/Issue-4.md)|
+| 4 | [Oauth and OpenID Issues](./Web-Issues/Issue-4.md)|
 | 5 | [SSL Strip Attack](./Web-Issues/Issue-5.md)| 
 | 6 | [SSO Token Issues](./Web-Issues/Issue-6.md)| 
 | 7| [SAML Injection/Issues](./Web-Issues/Issue-7.md)| 
 | 8|[Web Cache Deception](./Web-Issues/Issue-8.md)| 
-| 9|[Web Cache Poisioning](./Web-Issues/Issue-9.md)| 
+| 9|[Web Cache Poisioning (DoS)](./Web-Issues/Issue-9.md)| 
 | 10 |[CORS Exploitation and chaining(xss)](./Web-Issues/Issue-10.md)| 
 | 11|[UI Readdressing](./Web-Issues/Issue-11.md)| 
 | 12|[XSS Types and chaining](./Web-Issues/Issue-12.md)| 
@@ -25,7 +25,7 @@ This repository contains the vulnerabilities related to web security.
 | 20 |[LDAP, XPATH,YAML,ORM Injection](./Web-Issues/Issue-20.md)|
 | 21 |[File Upload Bypass and other Issues](./Web-Issues/Issue-21.md)|
 | 22 |[Host Header Injection](./Web-Issues/Issue-22.md)|
-| 23 |[JSON Attacks (Padding, Injection](./Web-Issues/Issue-23.md)|
+| 23 |[JSON Attacks (Padding, deserialization,Injection, Interoperability](./Web-Issues/Issue-23.md)|
 | 24 |[JWT Issues](./Web-Issues/Issue-24.md)|
 | 25 |[CSRF and Bypass, Chaining](./Web-Issues/Issue-25.md)|
 | 26 |[JWT Issues](./Web-Issues/Issue-26.md)|
@@ -43,13 +43,13 @@ This repository contains the vulnerabilities related to web security.
 | 38 |[Insecure Deserilization](./Web-Issues/Issue-38.md)|
 | 39 |[PHP Object Injection, Chaining(Privilege,RCE,SQL,Traverse](./Web-Issues/Issue-39.md)|
 | 40 |[Subdomain Takeover](./Web-Issues/Issue-40.md)|
-| 41 |[Cookie Injection](./Web-Issues/Issue-41.md)|
+| 41 |[Cookie Injection/ Cookie Based Authenticated Issues](./Web-Issues/Issue-41.md)|
 | 42 |[Apache Struts RCE](./Web-Issues/Issue-42.md)|
 | 43 |[CSP Bypass](./Web-Issues/Issue-43.md)|
 | 44 |[Angular Issues](./Web-Issues/Issue-44.md)|
 | 45 |[Ajax Issues](./Web-Issues/Issue-45.md)|
 | 46 |[Path Truncation](./Web-Issues/Issue-46.md)|
-| 47 |[Dangling Markup Injection](./Web-Issues/Issue-47.md)|
+| 47 |[Dangling Markup Injection/ HTTP Scriptless Attack](./Web-Issues/Issue-47.md)|
 | 48 |[Rest API Hacking](./Web-Issues/Issue-48.md)|
 | 49 |[Web Socket Issues](./Web-Issues/Issue-49.md)|
 | 50 |[DNS Rebinding](./Web-Issues/Issue-50.md)|
@@ -57,4 +57,19 @@ This repository contains the vulnerabilities related to web security.
 | 52 |[HTTP Request Smuggling](./Web-Issues/Issue-52.md)|
 | 53 |[POST Message Vulnerability](./Web-Issues/Issue-53.md)|
 | 54 |[Format String Injection](./Web-Issues/Issue-54.md)|
+| 55 |[2FA Bypass Techniques](./Web-Issues/Issue-55.md)|
+| 56 |[Client-Side Template Injection (CSTI)](./Web-Issues/Issue-56.md)|
+| 57 |[Cross-Site Script Includes (XSSI)](./Web-Issues/Issue-57.md)|
+| 58 |[Abusing Hop-by-Hop Headers](./Web-Issues/Issue-58.md)|
+| 59 |[Unicode Normalization](./Web-Issues/Issue-59.md)|
+| 60 |[Session Puzzling](./Web-Issues/Issue-60.md)|
+| 61 |[Password Reset Token Issues](./Web-Issues/Issue-61.md)|
+| 62 |[Mass Assigned Attack](./Web-Issues/Issue-62.md)|
+| 63 |[Captcha Bypass Techniques](./Web-Issues/Issue-63.md)|
+| 64 |[CORS Misconfiguration](./Web-Issues/Issue-64.md)|
+| 65 |[Dependency Confusion Attack](./Web-Issues/Issue-65.md)|
+| 66 |[ImageMagick - Shell Injection via PDF Password](./Web-Issues/Issue-66.md)|
+| 67 |[JIRA Issues](./Web-Issues/Issue-67.md)|
+| 68 |[Salesforce Security Misconfiguration](./Web-Issues/Issue-68.md)|
+| 69 |[Business Logic Issues](./Web-Issues/Issue-69.md)|
 
