@@ -76,4 +76,6 @@ This repository contains the vulnerabilities related to web security.
 | 71 |[Hidden API Functionality Exposure](./Web-Issues/Issue-71.md)|
 | 72 |[Information Disclosure](./Web-Issues/Issue-72.md)|
 | 73 |[Privilege Issues](./Web-Issues/Issue-73.md)|
-
+| 74 |[Cloud Issues](./Web-Issues/Issue-74.md)|
+| 75 |[Docker Issues](./Web-Issues/Issue-75.md)|
+| 76 |[Kubernates Issues](./Web-Issues/Issue-76.md)|
