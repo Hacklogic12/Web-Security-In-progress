@@ -72,4 +72,8 @@ This repository contains the vulnerabilities related to web security.
 | 67 |[JIRA Issues](./Web-Issues/Issue-67.md)|
 | 68 |[Salesforce Security Misconfiguration](./Web-Issues/Issue-68.md)|
 | 69 |[Business Logic Issues](./Web-Issues/Issue-69.md)|
+| 70 |[XML-RPC User Enumeration](./Web-Issues/Issue-70.md)|
+| 71 |[Hidden API Functionality Exposure](./Web-Issues/Issue-71.md)|
+| 72 |[Information Disclosure](./Web-Issues/Issue-72.md)|
+| 73 |[Privilege Issues](./Web-Issues/Issue-73.md)|
 
