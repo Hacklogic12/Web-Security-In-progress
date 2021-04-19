@@ -1,4 +1,4 @@
-[Functonality-Wise-Testcases][/Web-Security/Functionality-Wise-Testcases.md]
+[Functonality-Wise-Testcases](/Web-Security/Functionality-Wise-Testcases.md)
 # Web-Security
 This repository contains the vulnerabilities related to web security.
 
