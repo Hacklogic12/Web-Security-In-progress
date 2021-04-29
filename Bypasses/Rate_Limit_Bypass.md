@@ -23,15 +23,14 @@
    - POST /api/v1/Sign-up
    
 4. **Use the following request-header** 
-   ```
+```
   - X-Originating-IP: 127.0.0.1
   - X-Forwarded-For: 127.0.0.1
   - X-Remote-IP: 127.0.0.1
   - X-Remote-Addr: 127.0.0.1
-  
-  ```
-> ***Tip-1*** Try with X-Forwarded-For: IP 2x times instead of one time. </br>
-> ***Tip-2*** Sometimes, it is showing 10 request per account, then can bypass it by using different IP after 10 attempts. Use X-Forwarded-For: 192.168.0.101
+ ```
+ > ***Tip-1*** Try with X-Forwarded-For: IP 2x times instead of one time. </br>
+ > ***Tip-2*** Sometimes, it is showing 10 request per account, then can bypass it by using different IP after 10 attempts. Use X-Forwarded-For: 192.168.0.101
 
 5. Using **null byte** and **CRLF**  
    - %00, %0d%0a, %20, %0, %09, %0c
