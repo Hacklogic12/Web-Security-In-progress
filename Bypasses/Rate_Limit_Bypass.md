@@ -1,6 +1,7 @@
 ## **Methods to Bypass Rate Limit**
-***
+
 ### Limit Bypass Functionality- OTP, Coupon code, Feedback Form, Login, Singup, Comments etc.
+***
 
 1. **Using Request-ID**
 ```
