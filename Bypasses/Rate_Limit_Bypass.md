@@ -1,6 +1,6 @@
 ## **Methods to Bypass Rate Limit**
 ### Limit Bypass Functionality- OTP, Coupon code, Feedback Form, Login, Singup, Comments etc.
-
+***
 1. **Using Request-ID**
 ```
 If the application is using the different **Request-ID** in each request then intercept the request, copy the request id in the *.txt* file and drop the request. Likewise, prepare a list of request ids. Now, using the intruder, load the file and perform the attack.
