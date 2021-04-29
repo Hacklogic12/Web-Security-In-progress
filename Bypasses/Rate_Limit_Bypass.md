@@ -27,8 +27,7 @@ https://rhinosecuritylabs.com/aws/bypassing-ip-based-blocking-aws/
   - X-Remote-IP: 127.0.0.1
   - X-Remote-Addr: 127.0.0.1
  ```
-> Tip-1 Try with X-Forwarded-For: IP 2x times instead of one time.
-  &nbsp;
+> Tip-1 Try with X-Forwarded-For: IP 2x times instead of one time. </br>
 > Tip-2 Sometimes, it is showing 10 request per account, then can bypass it by using different IP after 10 attempts. Use X-Forwarded-For: 192.168.0.101
 
 5. Using **null byte** and **CRLF**  
