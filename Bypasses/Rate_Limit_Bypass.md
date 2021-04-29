@@ -11,8 +11,8 @@
    * https://github.com/TheKingOfDuck/burpFakeIP/blob/master/fakeIP.py
    * https://portswigger.net/bappstore/3a656c1be14148c6bf95642af42eb854 (Random-IP-Address)
   ```
-    Note- Using IP-Rotate burp extension, each request will go through AWS API gateway endpoiints in each region changing source IP on each request to the target.
-    https://rhinosecuritylabs.com/aws/bypassing-ip-based-blocking-aws/
+  Note- Using IP-Rotate burp extension, each request will go through AWS API gateway endpoiints in each region changing source IP on each request to the target.
+  https://rhinosecuritylabs.com/aws/bypassing-ip-based-blocking-aws/
   ```
  
 3. **Using Different Parameter**
@@ -29,8 +29,8 @@
   - X-Remote-IP: 127.0.0.1
   - X-Remote-Addr: 127.0.0.1
    ```
-  > ***Tip-1*** Try with X-Forwarded-For: IP 2x times instead of one time. </br>
-  > ***Tip-2*** Sometimes, it is showing 10 request per account, then can bypass it by using different IP after 10 attempts. Use X-Forwarded-For: 192.168.0.101
+> ***Tip-1*** Try with X-Forwarded-For: IP 2x times instead of one time. </br>
+> ***Tip-2*** Sometimes, it is showing 10 request per account, then can bypass it by using different IP after 10 attempts. Use X-Forwarded-For: 192.168.0.101
 
 5. Using **null byte** and **CRLF**  
    - %00, %0d%0a, %20, %0, %09, %0c
