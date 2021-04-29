@@ -11,8 +11,8 @@
 * https://github.com/TheKingOfDuck/burpFakeIP/blob/master/fakeIP.py
 * https://portswigger.net/bappstore/3a656c1be14148c6bf95642af42eb854 (Random-IP-Address)
   ```
-  Note- Using IP-Rotate burp extension, each request will go through AWS API gateway endpoiints in each region changing source IP on each request to the target.
-  https://rhinosecuritylabs.com/aws/bypassing-ip-based-blocking-aws/
+ Note- Using IP-Rotate burp extension, each request will go through AWS API gateway endpoiints in each region changing source IP on each request to the target.
+ https://rhinosecuritylabs.com/aws/bypassing-ip-based-blocking-aws/
   ```
  
 3. **Using Different Parameter**
