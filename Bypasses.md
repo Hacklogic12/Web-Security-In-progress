@@ -1,4 +1,5 @@
-##Bypasses Vulnerabilities List
+## **Bypasses Vulnerabilities List**
+__
 
 | S.NO. | Topic |
 | ------ | --------------- |
