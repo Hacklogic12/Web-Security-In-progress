@@ -6,6 +6,7 @@
 Software frameworks sometime allow developers to automatically bind HTTP request parameters into program code variables or objects to make using that framework easier on developers. This can sometimes cause harm.
 
 Attackers can sometimes use this methodology to create new parameters that the developer never intended which in turn creates or overwrites new variable or objects in program code that was not intended. This is called a Mass Assignment vulnerability.
+Many frameworks provide convenient mass-assignment functionality. This lets developers inject an entire set of user-entered data from a form directly into an object or database.
 ```
 2. **Example/Exploitation**
 ```
