@@ -11,6 +11,6 @@ Attackers can sometimes use this methodology to create new parameters that the d
 ```
 - Guess the sensitive parameter field and can use in add user or edit user functionality.
 - Guess an idea of internal variables used in object using API Docs or other.
-- E.g. There is a parameter **"isAdmin"** to know about user. Take the advantage of this variable and add it into **adduser** and **password update**. Make the user as admin
+- E.g. There is a parameter "isAdmin" to know about user. Take the advantage of this variable and add it into "adduser" and "password update". Make the user as admin
 ```
 3. **Mitigation**
