@@ -1,4 +1,5 @@
 ## Open Redirection
+### Chaining: -> SSRF, Oauth Token Disclosure, XSS, CRLF
 ***
 1. **Description**
 ```
@@ -36,8 +37,9 @@ path
 ?view={payload}
 /login?to={payload}
 ```
-3. Example/Exploitation
+3. Example/Exploitation/Affected Functionality
 ```
+- Login, Logout, Register, Singup, Links, change site language, password reset
 - /logout/google.com
 - /signup?redirectUrl=https://evil.com
 ```
@@ -54,6 +56,18 @@ https:google.com
 http://www.theirsite.com@yoursite.com/
 http://www.yoursite.com?http://www.theirsite.com/
 /redirect.php?url=javascript:prompt(1)    (xss from open redirection)
+?next=whitelisted.com&next=google.com     (using same parameter twice)
 ```
 5. Mitigation
-6. References
+6. Payload Links
+```
+https://github.com/cujanovic/Open-Redirect-Payloads/blob/master/Open-Redirect-payloads.txt
+https://pentester.land/cheatsheets/2018/11/02/open-redirect-cheatsheet.html
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+```
+7. References
+8. Tools
+9. Google Dorks
+```
+inurl:redirectUrl=http site:target.com
+```
