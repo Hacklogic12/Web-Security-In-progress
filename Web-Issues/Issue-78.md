@@ -36,5 +36,6 @@ path
 ```
 - /logout/google.com
 ```
-4. Mitigation
-5. References
+4. Bypass Method
+5. Mitigation
+6. References
