@@ -2,9 +2,12 @@
 ### Chaining:
 1. **Description**
 2. **Entry Point**
-3. **Example/Exploitation**
-4. **Mitigation**
-5. **Bypass**
-6. **Payloads**
-7. **Tools**
-8. **References**
+```
+-Search field- sysinfo
+```
+4. **Example/Exploitation**
+5. **Mitigation**
+6. **Bypass**
+7. **Payloads**
+8. **Tools**
+9. **References**
