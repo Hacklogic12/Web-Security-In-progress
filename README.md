@@ -81,3 +81,4 @@ This repository contains the vulnerabilities related to web security.
 | 75 |[Docker Issues](./Web-Issues/Issue-75.md)|
 | 76 |[Kubernates Issues](./Web-Issues/Issue-76.md)|
 | 77 |[Regular Expression DoS](./Web-Issues/Issue-77.md)|
+| 78 |[Open Redirection](./Web-Issues/Issue-78.md)|
