@@ -65,7 +65,7 @@ This repository contains the vulnerabilities related to web security.
 | 59 |[Unicode Normalization](./Web-Issues/Issue-59.md)|
 | 60 |[Session Puzzling](./Web-Issues/Issue-60.md)|
 | 61 |[Password Reset Token Issues](./Web-Issues/Issue-61.md)|
-| 62 |[Mass Assigned Attack](./Web-Issues/Issue-62.md)|
+| 62 |[Mass Assigned Attack](Web-Issues/Issue-62.md)|
 | 63 |[Captcha Bypass Techniques](./Web-Issues/Issue-63.md)|
 | 64 |[CORS Misconfiguration](./Web-Issues/Issue-64.md)|
 | 65 |[Dependency Confusion Attack](./Web-Issues/Issue-65.md)|
