@@ -9,6 +9,6 @@ Attackers can sometimes use this methodology to create new parameters that the d
 ```
 2. **Example/Exploitation**
 ```
-* Guess the sensitive parameter field and can use in add user or edit user functionality.
+*Guess the sensitive parameter field and can use in add user or edit user functionality.
 ```
-4. **Mitigation**
+3. **Mitigation**
