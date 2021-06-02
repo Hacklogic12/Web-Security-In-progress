@@ -1,4 +1,4 @@
-## Funtionality-Wise-Testcases
+## Functionality-Wise-Testcases
 | S.NO. | Checklist |
 | ------ | --------------- |
 | 1 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)|
