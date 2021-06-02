@@ -16,3 +16,9 @@
 | 12 |[Open Redirection](./Web-Issues/Issue-1.md)|
 | 13 |[Server Side Request Forgery](./Web-Issues/Issue-1.md)|
 | 14 |[XML External Entity](./Web-Issues/Issue-1.md)|
+| 15 |[Bypass Maximum Size Limit](./Web-Issues/Issue-1.md)|
+| 16 |[Malicious iker file check](./Web-Issues/Issue-1.md)|
+
+1. Remote Code Execution
+
+
