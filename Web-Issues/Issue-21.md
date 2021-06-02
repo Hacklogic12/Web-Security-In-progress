@@ -20,5 +20,15 @@
 | 16 |[Malicious iker file check](./Web-Issues/Issue-1.md)|
 
 1. Remote Code Execution
+```
+Try to upload file with shell and check the application is allowing or not.
+```
+2. Unrestricted File Upload
+```
+If the application is allowing to upload image file only then try to upload other extension as well (php, html, svg etc.)
+```
+3. File Overwrite Attack
+```
+
 
 
