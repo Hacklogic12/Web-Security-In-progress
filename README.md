@@ -1,4 +1,4 @@
-[**Functionality-Wise-Testcases**](./Web-Security/Functionality-Wise-Testcases.md)&nbsp; [**Tips-Tricks-Mindmap**](/Web-Security/Tips-Tricks-Mindmap.md)&nbsp; [**Payloads**](./Web-Security/Payloads.md)&nbsp;&nbsp; [**Bypasses**](https://github.com/Hacklogic12/Web-Security/blob/main/Bypasses.md)
+[**Functionality-Wise-Testcases**](/Functionality-Wise-Testcases.md)&nbsp; [**Tips-Tricks-Mindmap**](/Web-Security/Tips-Tricks-Mindmap.md)&nbsp; [**Payloads**](./Web-Security/Payloads.md)&nbsp;&nbsp; [**Bypasses**](https://github.com/Hacklogic12/Web-Security/blob/main/Bypasses.md)
 ## Web-Security
 This repository contains the vulnerabilities related to web security.
 
