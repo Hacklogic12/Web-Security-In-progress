@@ -19,4 +19,4 @@ Check it is possible to use 2FA of another user
 
 #### Check for clickjacking on 2FA disabling
 
-### Bypass  2FA by using null or 000000
+#### Bypass  2FA by using null or 000000
