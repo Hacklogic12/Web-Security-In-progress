@@ -24,9 +24,9 @@
    * Assume that the cookies utilize a parameter called "user_id=" to retrieve some data.
    * Attacker, add an additional "user_id=" parameter value to the cookie with victim's user ID. Like: "user_id=attacker&user_id=victim" 
    * Three things can happen here:
-    - The application may retrieve data of Victim User. 
-    - The Application may retrieve data of both Attacker & Victim User.
-    - The Application is not vulnerable and doesn't return anything.
+     - The application may retrieve data of Victim User. 
+     - The Application may retrieve data of both Attacker & Victim User.
+     - The Application is not vulnerable and doesn't return anything.
 
 9. Mass Assignment 
    * Similar to the Parameter Pollution, However, in this, Attacker tried to Inject multiple User ID in same user_id parameter.
