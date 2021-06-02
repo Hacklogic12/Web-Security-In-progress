@@ -8,12 +8,12 @@
   
 3. SQL Injection
  
-4.  If the cookies are using some access defining parameter such as "user_id"
+4. If the cookies are using some access defining parameter such as "user_id"
    * Change the value of these parameter in order to check if you can access other user's data.
   
 5. Check for guessable or weak cookie
 
-6.  Try accessing a protected resource by removing cookies.
+6. Try accessing a protected resource by removing cookies.
    * If the resource is accessible via GET Request, try for Direct Request (Forceful Browsing) with unauthenticated user.
   
 7. Denial of Service - Cookie Bomb
