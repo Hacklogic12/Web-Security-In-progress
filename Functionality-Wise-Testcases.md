@@ -11,5 +11,5 @@
 | 1 | [Authentication](/Functionality-Wise-Testcases/Authentication.md)|
 | 2 | [Session](/Functionality-Wise-Testcases/Session.md)|
 | 3 | [Security-Misconfiguration](/Functionality-Wise-Testcases/Security-Misconfiguration.md)|
-| 4 | [Forgot-Password](/Functionality-Wise-Testcases/Forgot-Password.md)|
-| 5 | [Password-Reset-Token](/Functionality-Wise-Testcases/Password-Reset-Token.md)|
+| 4 | [Forgot Password](/Functionality-Wise-Testcases/Forgot Password.md)|
+| 5 | [Password Reset Token](/Functionality-Wise-Testcases/Password Reset Token.md)|
