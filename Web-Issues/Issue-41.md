@@ -7,7 +7,7 @@
    * Check for XSS if the application is reflected cookie value in the response.
   
 3. SQL Injection
-   * 
+ 
 4.  If the cookies are using some access defining parameter such as "user_id"
    * Change the value of these parameter in order to check if you can access other user's data.
   
